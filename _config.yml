@@ -1,3 +1,53 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Base configuration
+# exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md"]
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# collections:
+#   pages:
+#     output: true
+#     permalink: /:path/
+
+# Title
+name: Szybki kurs na egzamin KF
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: SP5EXT
+  url: https://sp5ext.pl
+
+# When using this template with a project (repository) page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+# baseurl: '/guides-template'
+
+# # Point the logo URL at a file in your repo or hosted elsewhere by your organization
+# logourl: /assets/img/dc_logo.png
+# logoalt: The D.C. flag
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Introduction
+  internal: true
+  url: ./
+- text: Add a new page
+  internal: true
+  url: add-a-new-page
+- text: Configure the Guide
+  internal: true
+  url: configure-the-guide
+- text: GitHub Setup
+  internal: true
+  url: github
+- text: Create a Glossary
+  glossary: true
+- text: Edit this Repo
+  internal: false
+  url: https://github.com/DCgov/guides-template
