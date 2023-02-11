@@ -1,10 +1,10 @@
-=== Pliki do pobrania
+### Pliki do pobrania
 
 [Literowanie i bandplan (długości fal vs częstotliwości)](./files/literowanie_bandplan.pdf)
 
 
 
-=== Strony z materiałami, testami
+### Strony z materiałami, testami
 
 Krakowski Kurs Krótkofalarski
 https://www.youtube.com/watch?v=Wo2Zof96vjM&list=PLziQLnE44RtWN2jaay-1BDeQ0eAkkuuJi
@@ -22,7 +22,7 @@ Opis egzaminu KF w wykonaniu Sierra Echo
 https://www.youtube.com/watch?v=biO8y8Z5o8E
 
 
-=== Społeczności, YT, Inne
+### Społeczności, YT, Inne
 
 Przemienniki
 https://przemienniki.net/
