@@ -3,4 +3,4 @@ ada
 
 sfds
 
-[Link to another page](./links.md).
+[Link to another page](./linki.md).
