@@ -21,6 +21,13 @@ author:
   name: SP5EXT
   url: https://sp5ext.pl
 
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
 # When using this template with a project (repository) page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
