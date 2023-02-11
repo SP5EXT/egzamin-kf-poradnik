@@ -14,12 +14,10 @@ permalink: pretty
 #     permalink: /:path/
 
 # Title
-name: Szybki kurs na egzamin KF
+title: Szybki kurs na egzamin KF
 
 # Author/Organization info to be displayed in the templates
-author:
-  name: SP5EXT
-  url: https://sp5ext.pl
+author: SP5EXT
 
 navbar-links:
   About Me: "aboutme"
