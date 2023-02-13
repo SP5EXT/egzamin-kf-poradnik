@@ -5,7 +5,8 @@ Stworzyłem ten krótki poradnik, żeby ułatwić uzyskanie pozwolenia radiowego
 Nie jestem ekspertem. Jestem początkujący, egzamin zdałem niecały rok przed utworzeniem tej strony. Istnieje realne prawdopodobnieństwo, że coś gdzieś przekręciłem/źle wytłumaczyłem/wprowadziłem w błąd. 
 Jeśli znalazłeś miejsce do poprawy - [otwórz pull request](https://github.com/SP5EXT/egzamin-kf-poradnik) lub napisz do mnie na adres e-mail `hello (at) sp5ext (kropka) pl`. Postaram się dodać poprawki.
 
-W ramach tego małego projektu skupię na przekazaniu wiedzy potrzebnej do zdania egzaminu. Moim celem nie jest szerzenie ogólnej wiedzy na temat krótkofalarstwa - ta jest dostępna w innych źródłach.
+??????
+W ramach tego małego projektu skupię się na przekazaniu wiedzy potrzebnej do zdania egzaminu. Moim celem nie jest szerzenie ogólnej wiedzy na temat krótkofalarstwa - ta jest dostępna w innych źródłach.
 
 Dostępne do pobrania pliki PDF nie są mojego autorstwa - autorzy wymienieni są w owych plikach. Jeśli jesteś autorem tego pliku i życzysz sobie jego usunięcia - daj mi znać.
 
@@ -25,7 +26,18 @@ Zaczynamy.
 
 ## Nauka
 
+Oto krótka lista, czego się będziesz uczyć
+1. Podstawowe zagadnienia
+2. Testy i schematy
+3. Literowanie
+5. Kody Q
+
+
 ### 1. Podstawy hobby radiowego
+
+> Zasoby
+> [Krakowski Kurs Krótkofalarski](https://www.youtube.com/watch?v=Wo2Zof96vjM&list=PLziQLnE44RtWN2jaay-1BDeQ0eAkkuuJi)
+
 
 Poświęć pierwsze kilka godzin na obejrzenie [nagrań krakowskiego kursu krótkofalarskiego](https://www.youtube.com/watch?v=Wo2Zof96vjM&list=PLziQLnE44RtWN2jaay-1BDeQ0eAkkuuJi).
 
@@ -37,6 +49,19 @@ Reszta w miarę chęci.
 Zawartość w filmach na początku może wydać Ci się trudna do przyswojenia, wręcz abstrakcyjna. Nie przejmuj się, wszystko z czasem ułoży się w głowie. Jest to kurs robiony amatorsko i prowadzący mieszają czasami proste, podstawowe zagadnienia z tymi złożonymi.
 Mimo tych niedogodności zawsze będę kibicował autorom tego kursu - poświęcili swój prywatny czas żeby przekazać ogrom wiedzy za darmo 👍
 
+
+### 2. Testy
+
+> Zasoby
+> 
+
+
+
+### Testy
+Oznaczaj trudne 
+do schematów i częstotliwości użyj ściągawki ze schematami oraz (ściągawki z zakresami). <-- może wrzucić to jako listę linków na początku paragrafu?
+
+Baza pytań jest jawna. Dla świętego spokoju sprawdź na stronach UKE, czy nie pojawiły się nowe pytania, których nie ma jeszcze na platformie testowej.
 
 
 # Egzamin
