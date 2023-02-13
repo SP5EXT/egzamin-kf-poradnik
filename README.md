@@ -1,14 +1,9 @@
-## Po co to wszystko
-
-> [!info]
-> dd
-
-Stworzyłem ten krótki poradnik, żeby ułatwić uzyskanie pozwolenia radiowego osobom, które dopiero zaczynają interesować się krótkofalarstwem. Często korzystam z darmowych materiałów zrobionych przez innych po godzinach. Ta strona to jedna z moich prób "spłacenia długu".
+Stworzyłem ten krótki poradnik, żeby ułatwić uzyskanie pozwolenia radiowego osobom, które dopiero zaczynają interesować się krótkofalarstwem. Często korzystam z darmowych materiałów zrobionych przez innych po godzinach. Ta strona to jedna z moich prób "spłacenia długu" społeczności chcącej dzielić się wiedzą.
 
 ## Dwa słowa wstępu
 
 Nie jestem ekspertem. Jestem początkujący, egzamin zdałem niecały rok przed utworzeniem tej strony. Istnieje realne prawdopodobnieństwo, że coś gdzieś przekręciłem/źle wytłumaczyłem/wprowadziłem w błąd. 
-Jeśli znalazłeś miejsce do poprawy - utwórz pull request lub napisz do mnie na adres e-mail `hello (at) sp5ext (kropka) pl`. Postaram się dodać poprawki.
+Jeśli znalazłeś miejsce do poprawy - [otwórz pull request](https://github.com/SP5EXT/egzamin-kf-poradnik) lub napisz do mnie na adres e-mail `hello (at) sp5ext (kropka) pl`. Postaram się dodać poprawki.
 
 W ramach tego małego projektu skupię na przekazaniu wiedzy potrzebnej do zdania egzaminu. Moim celem nie jest szerzenie ogólnej wiedzy na temat krótkofalarstwa - ta jest dostępna w innych źródłach.
 
@@ -30,7 +25,7 @@ Zaczynamy.
 
 # Nauka
 
-## 1. Podstawy hobby radiowego
+### 1. Podstawy hobby radiowego
 
 Poświęć pierwsze kilka godzin na obejrzenie [nagrań krakowskiego kursu krótkofalarskiego](https://www.youtube.com/watch?v=Wo2Zof96vjM&list=PLziQLnE44RtWN2jaay-1BDeQ0eAkkuuJi).
 
