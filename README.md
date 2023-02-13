@@ -1,10 +1,11 @@
-# Wstęp
-
 ## Po co to wszystko
+
+> [!info]
+> dd
 
 Stworzyłem ten krótki poradnik, żeby ułatwić uzyskanie pozwolenia radiowego osobom, które dopiero zaczynają interesować się krótkofalarstwem. Często korzystam z darmowych materiałów zrobionych przez innych po godzinach. Ta strona to jedna z moich prób "spłacenia długu".
 
-## Dwa słowa o jakości zawartości kursu
+## Dwa słowa wstępu
 
 Nie jestem ekspertem. Jestem początkujący, egzamin zdałem niecały rok przed utworzeniem tej strony. Istnieje realne prawdopodobnieństwo, że coś gdzieś przekręciłem/źle wytłumaczyłem/wprowadziłem w błąd. 
 Jeśli znalazłeś miejsce do poprawy - utwórz pull request lub napisz do mnie na adres e-mail `hello (at) sp5ext (kropka) pl`. Postaram się dodać poprawki.
@@ -34,7 +35,7 @@ Zaczynamy.
 Poświęć pierwsze kilka godzin na obejrzenie [nagrań krakowskiego kursu krótkofalarskiego](https://www.youtube.com/watch?v=Wo2Zof96vjM&list=PLziQLnE44RtWN2jaay-1BDeQ0eAkkuuJi).
 
 Kurs jest długi i oglądanie wszystkich odcinków dla osoby która jest "zielona" może być dużym wyzwaniem, wręcz zniechęceniem.
-Dlatego moja rada - zmuś się i obejrzyj pierwsze dwie części ([Odcinek 0](https://www.youtube.com/watch?v=Wo2Zof96vjM), O[dcinek 1](https://www.youtube.com/watch?v=g3wyVkh-x3Q)).
+Dlatego moja rada - zmuś się i obejrzyj pierwsze dwie części ([Odcinek 0](https://www.youtube.com/watch?v=Wo2Zof96vjM), [Odcinek 1](https://www.youtube.com/watch?v=g3wyVkh-x3Q)).
 
 Reszta w miarę chęci.
 
