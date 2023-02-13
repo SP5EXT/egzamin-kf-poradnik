@@ -111,7 +111,7 @@ Niektórzy egzaminatorzy to uskuteczniają, niektórzy nie. Oczywistym jest to, 
 
 Na szczęście ten nieco żenujący spektakl trwa krótko - schemat znajdziesz w dołączonym FAQ w PDF na piątej stronie. 
 
-Możesz też spojrzeć na kalendarz zawodów KF i posłuchać transmisji uczestników. Nie potrzebujesz do tego radia. Transmisji możesz słuchać przez [WebSDR](http://sierraecho.pl/websdr-wykaz-serwerow-w-polsce/).
+Możesz też spojrzeć na [kalendarz zawodów KF](https://sp9cxn.pzk.pl/kalendarz.html) i posłuchać transmisji uczestników. Nie potrzebujesz do tego radia. Transmisji możesz słuchać przez [WebSDR](http://sierraecho.pl/websdr-wykaz-serwerow-w-polsce/).
 
 
 ## Podsumowanie
@@ -121,6 +121,10 @@ Jeśli tak jak ja kiedyś nigdy nie marzyłeś o tym hobby, ale jakimś cudem w 
 Z perspektywy czasu, mimo że nie jest to moje główne hobby, uważam że warto było się odrobinę przymusić, nauczyć i zdać. W pewnym momencie wiedza zaczyna wchodzić całkiem łatwo, a miło czasami móc wieczorem odpalić nawet najtańsze radio i coś sobie posłuchać lub nadać. Jeszcze milej jest wiedzieć, jak go poprawnie użyć.
 
 Powodzenia!
+
+### Podziękowania
+
+Podziękowania dla kolegi SQ9NOX za recenzję i kilka uwag, pomysłów.
 
 
 ### Przydatne linki
@@ -150,4 +154,6 @@ Niektóre linki powtarzają się w sekcjach wyżej dla Twojej wygody (mam nadzie
 [Kanał Sierra Echo na YouTube - dużo praktycznej wiedzy, częste live'y](https://www.youtube.com/c/SierraEcho)
 
 [Lista serwerów WebSDR w Polsce](http://sierraecho.pl/websdr-wykaz-serwerow-w-polsce/)
+
+[Kalendarz zawodów KF](https://sp9cxn.pzk.pl/kalendarz.html)
 
