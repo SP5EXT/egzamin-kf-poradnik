@@ -7,18 +7,14 @@ Często korzystam z darmowych materiałów zrobionych przez innych po godzinach.
 Nie jestem ekspertem. Jestem początkującym krótkofalowcem. Egzamin zdałem niecały rok przed utworzeniem tej strony. Istnieje realne prawdopodobnieństwo, że coś gdzieś przekręciłem/źle wytłumaczyłem/wprowadziłem w błąd. 
 Jeśli znalazłeś miejsce do poprawy - [otwórz pull request](https://github.com/SP5EXT/egzamin-kf-poradnik) lub napisz do mnie na adres e-mail `hello (at) sp5ext (kropka) pl`. Postaram się dodać poprawki.
 
-Dostępne do pobrania pliki PDF nie są mojego autorstwa - autorzy wymienieni są w owych plikach. Jeśli jesteś autorem tego pliku i życzysz sobie jego usunięcia - daj mi znać.
+Dostępne do pobrania pliki PDF nie są mojego autorstwa - autorzy wymienieni są w owych plikach. Jeśli jesteś autorem któregoś pliku i życzysz sobie jego usunięcia - daj mi znać.
 
 
 ### Ile czasu potrzebuję na naukę?
 Egzamin jest dosyć prosty, chociaż nie trywialny i trzeba będzie poświęcić trochę czasu na naukę. W zależności od Twojego obecnego ogarnięcia w temacie techniki/elektroniki będziesz potrzebował łącznie 5-15 godzin. 
 
 
-
 ## Nauka
-
-
-
 
 ### 1. Zapisz się na egzamin
 > Zasoby
@@ -27,10 +23,7 @@ Egzamin jest dosyć prosty, chociaż nie trywialny i trzeba będzie poświęcić
 > 
 > [Informacje ogólne o świadectwach, opłatach](https://bip.uke.gov.pl/swiadectwa-operatora-urzadzen-radiowych-tresci/swiadectwa-amatorskie,3.html)
 
-
-Serio, to jest pierwszy krok. Wolne miejsca szybko znikają, a zbliżający się termin egzaminu zmotywuje Cię do nauki. Wystarczy usiąść do materiałów 1-2 tygodnie przed wyznaczoną datą, poświęcając na przyswajanie wiedzy 30-60 minut dziennie. 
-
-
+Serio, to jest pierwszy krok. Wolne miejsca szybko znikają, a zbliżający się termin egzaminu zmotywuje Cię do nauki. Wystarczy usiąść do materiałów 1-2 tygodnie przed wyznaczoną datą, poświęcając na przyswajanie wiedzy 30-60 minut dziennie. Uczenie się w pierwszym kroku, a dopiero potem zapisywanie na egzamin nie ma większego sensu.
 
 ### 2. Podstawy hobby radiowego
 
@@ -41,17 +34,17 @@ Serio, to jest pierwszy krok. Wolne miejsca szybko znikają, a zbliżający się
 > [Radio FAQ](./files/radio_faq1.pdf)
 
 
-Poświęć pierwsze kilka godzin na obejrzenie [nagrań krakowskiego kursu krótkofalarskiego](https://www.youtube.com/watch?v=Wo2Zof96vjM&list=PLziQLnE44RtWN2jaay-1BDeQ0eAkkuuJi).
+Zaczynamy od [nagrań krakowskiego kursu krótkofalarskiego](https://www.youtube.com/watch?v=Wo2Zof96vjM&list=PLziQLnE44RtWN2jaay-1BDeQ0eAkkuuJi).
 
-Kurs jest długi i oglądanie wszystkich odcinków dla osoby która jest "zielona" może być dużym wyzwaniem, wręcz zniechęceniem.
-Dlatego moja rada - zmuś się i obejrzyj pierwsze dwie części ([Odcinek 0](https://www.youtube.com/watch?v=Wo2Zof96vjM), [Odcinek 1](https://www.youtube.com/watch?v=g3wyVkh-x3Q)).
-
+Kurs jest długi i oglądanie wszystkich odcinków dla osoby która jest "zielona" może być dużym wyzwaniem, może wręcz zniechęcać.
+Dlatego moja rada - **zmuś się i obejrzyj pierwsze dwie części** ([Odcinek 0](https://www.youtube.com/watch?v=Wo2Zof96vjM), [Odcinek 1](https://www.youtube.com/watch?v=g3wyVkh-x3Q)).
 
 Przejrzyj też [Radio FAQ](./files/radio_faq1.pdf).
 Resztę odcinków obejrzyj w miarę chęci.
 
-Zawartość w filmach na początku może wydać Ci się trudna do przyswojenia, wręcz abstrakcyjna. Nie przejmuj się, wszystko z czasem ułoży się w głowie. Jest to kurs robiony amatorsko i prowadzący mieszają czasami proste, podstawowe zagadnienia z tymi złożonymi.
-Mimo tych niedogodności zawsze będę kibicował autorom tego kursu - poświęcili swój prywatny czas żeby przekazać ogrom wiedzy za darmo 👍
+Przedstawiona w filmach wiedza z początku może wydać Ci się trudna do przyswojenia, wręcz abstrakcyjna. Nie przejmuj się, wszystko z czasem ułoży się w głowie. Jest to kurs robiony amatorsko i prowadzący mieszają czasami proste, podstawowe zagadnienia z tymi złożonymi.
+
+Mimo tych niedogodności zawsze będę kibicował autorom kursu - poświęcili swój prywatny czas żeby przekazać ogrom wiedzy za darmo 👍
 
 
 ### 3. Testy
@@ -103,6 +96,8 @@ Zarówno w sieci jak i w eterze spotkasz się z tym, że dla litery T niektórzy
 
 **Jak się nauczyć -**napisz dwa-trzy losowe zdania i staraj się je przeliterować w obu alfabetach. Jeśli wybitnie nie idzie (mi nie szło), to literuj na początku na piśmie. Pisanie angażuje więcej neuronów i ułatwia zapamiętywanie.
 
+Alternatywnym sposobem nauki jest literowanie tablic rejestracyjnych mijanych pojazdów.
+
 **Kody Q**
 
 Kody służą przyśpieszeniu i ułatwieniu komunikacji. Niestety, tu nie ma że boli. Są kody, które są stosowane bardzo często (QSO, QTH, QSY), jak i te bardzo rzadkie. Rzucając okiem na zestawy dostępne podczas mojego egzaminu miałem wrażenie, że komisja wybrała raczej te popularniejsze pozycje, ale nie mogę tego zagwarantować.
@@ -116,6 +111,7 @@ Niektórzy egzaminatorzy to uskuteczniają, niektórzy nie. Oczywistym jest to, 
 
 Na szczęście ten nieco żenujący spektakl trwa krótko - schemat znajdziesz w dołączonym FAQ w PDF na piątej stronie. 
 
+Możesz też spojrzeć na kalendarz zawodów KF i posłuchać transmisji uczestników. Nie potrzebujesz do tego radia. Transmisji możesz słuchać przez [WebSDR](http://sierraecho.pl/websdr-wykaz-serwerow-w-polsce/).
 
 
 ## Podsumowanie
@@ -137,7 +133,6 @@ Niektóre linki powtarzają się w sekcjach wyżej dla Twojej wygody (mam nadzie
 
 [Opis egzaminu KF w wykonaniu Sierra Echo](https://www.youtube.com/watch?v=biO8y8Z5o8E)
 
-
 ### Społeczności, YT, Inne
 
 [Przemienniki.net](https://przemienniki.net/)
@@ -153,4 +148,6 @@ Niektóre linki powtarzają się w sekcjach wyżej dla Twojej wygody (mam nadzie
 [Społeczność krótkofalarska na Discord](https://discord.gg/krotkofalarstwo-958356886896386088)
 
 [Kanał Sierra Echo na YouTube - dużo praktycznej wiedzy, częste live'y](https://www.youtube.com/c/SierraEcho)
+
+[Lista serwerów WebSDR w Polsce](http://sierraecho.pl/websdr-wykaz-serwerow-w-polsce/)
 
