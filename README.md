@@ -9,7 +9,7 @@ W ramach tego małego projektu skupię na przekazaniu wiedzy potrzebnej do zdani
 
 Dostępne do pobrania pliki PDF nie są mojego autorstwa - autorzy wymienieni są w owych plikach. Jeśli jesteś autorem tego pliku i życzysz sobie jego usunięcia - daj mi znać.
 
-## Plan tego kursu
+### Plan tego kursu
 
 
 ??????
@@ -17,13 +17,13 @@ Najpierw krótko opowiem o tym, jak wygląda egzamin (a przynajmniej wyglądał 
 Następnie skupię sie na tym, jak się do niego krok po kroku przygotować.
 Na końcu zamieszczę garść przydatnych linków.
 
-## Ile czasu potrzebuję na naukę
+### Ile czasu potrzebuję na naukę
 Egzamin jest dosyć prosty, chociaż nie trywialny i trzeba będzie poświęcić trochę czasu na naukę. W zależności od Twojego obecnego ogarnięcia w temacie techniki/elektroniki będziesz potrzebował łącznie 5-15 godzin. 
 
 Zaczynamy.
 
 
-# Nauka
+## Nauka
 
 ### 1. Podstawy hobby radiowego
 
