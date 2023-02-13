@@ -35,8 +35,9 @@ Oto krótka lista, czego się będziesz uczyć
 
 ### 1. Podstawy hobby radiowego
 
-> Zasoby
+> Zasoby:
 > [Krakowski Kurs Krótkofalarski](https://www.youtube.com/watch?v=Wo2Zof96vjM&list=PLziQLnE44RtWN2jaay-1BDeQ0eAkkuuJi)
+> [Radio FAQ](./files/radio_faq1.pdf)
 
 
 Poświęć pierwsze kilka godzin na obejrzenie [nagrań krakowskiego kursu krótkofalarskiego](https://www.youtube.com/watch?v=Wo2Zof96vjM&list=PLziQLnE44RtWN2jaay-1BDeQ0eAkkuuJi).
@@ -44,7 +45,9 @@ Poświęć pierwsze kilka godzin na obejrzenie [nagrań krakowskiego kursu krót
 Kurs jest długi i oglądanie wszystkich odcinków dla osoby która jest "zielona" może być dużym wyzwaniem, wręcz zniechęceniem.
 Dlatego moja rada - zmuś się i obejrzyj pierwsze dwie części ([Odcinek 0](https://www.youtube.com/watch?v=Wo2Zof96vjM), [Odcinek 1](https://www.youtube.com/watch?v=g3wyVkh-x3Q)).
 
-Reszta w miarę chęci.
+
+Przejrzyj też [Radio FAQ](./files/radio_faq1.pdf).
+Resztę odcinków obejrzyj w miarę chęci.
 
 Zawartość w filmach na początku może wydać Ci się trudna do przyswojenia, wręcz abstrakcyjna. Nie przejmuj się, wszystko z czasem ułoży się w głowie. Jest to kurs robiony amatorsko i prowadzący mieszają czasami proste, podstawowe zagadnienia z tymi złożonymi.
 Mimo tych niedogodności zawsze będę kibicował autorom tego kursu - poświęcili swój prywatny czas żeby przekazać ogrom wiedzy za darmo 👍
@@ -52,10 +55,19 @@ Mimo tych niedogodności zawsze będę kibicował autorom tego kursu - poświęc
 
 ### 2. Testy
 
-> Zasoby
-> 
+> Zasoby:
+> [Testy SP6DLV](https://test.sp6dlv.pl/)
+> [egzaminkf.pl - źródło pomocnicze](http://www.egzaminkf.pl/home.php)
+> []
 
+Kolejnym krokiem jest mozolne mielenie testów. Jako osoba przechodząca kiedyś egzamin na patent strzeleckim posłużę się porównaniem - baza pytań do egzaminu KF jest mniejsza, prostsza, a przede wszystkim jawna. 
 
+Aby zdać egzamin wystarczy odpowiedzieć poprawnie na 3 z 5 pytań w każdej z 4 sekcji (czyli łącznie na 60% pytań). Celuj jednak w powtarzalny wynik minimum 90%.
+
+Platforma SP6DLV umożliwia oznaczanie trudnych pytań. Korzystaj z tego.
+Jak nauczyć się pytań ze schematami i częstotliwościami? Uzyj dedykowanych materiałów, przeanalizuj różnice. Każdy znajduje sobie klucz wg którego zapamiętuje tego typu wiedzę.
+
+To że baza pytań jest jawna, nie oznacza że jest ona niezmienna. Dla świętego spokoju przejrzyj aktualną listę kilka dni przed egzaminem.
 
 ### Testy
 Oznaczaj trudne 
