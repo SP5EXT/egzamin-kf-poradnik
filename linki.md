@@ -32,3 +32,11 @@ https://nadajniki.yasiu.pl/
 
 Zapisy na egzaminy
 https://egzaminy.uke.gov.pl/pl
+
+Informacje ogólne o świadectwach, opłatach
+https://bip.uke.gov.pl/swiadectwa-operatora-urzadzen-radiowych-tresci/swiadectwa-amatorskie,3.html
+
+Grupa krótkofalarska na Facebooku
+https://www.facebook.com/groups/168674173954605
+
+Discord
