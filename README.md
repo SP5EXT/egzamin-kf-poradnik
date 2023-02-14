@@ -79,6 +79,8 @@ Część testowa egzaminu zawiera 20 pytań podzielonych na 4 sekcje. Aby zdać 
 > [Radio FAQ](./files/radio_faq1.pdf)
 > 
 > [Bandplan, literowanie, kody Q](./files/literowanie_bandplan.pdf)
+> 
+> [Przykładowa symulowana łączność](https://www.youtube.com/watch?v=YrdKml_QX48)
 
 Po zaliczeniu części pisemnej i sprawdzeniu wyników, jesteśmy zaproszeni na krótki (3-5 minut) egzamin ustny na osobności.
 
