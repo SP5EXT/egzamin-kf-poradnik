@@ -60,7 +60,7 @@ Mimo tych niedogodności zawsze będę kibicował autorom kursu - poświęcili s
 > [Bandplan, literowanie, kody Q](./files/literowanie_bandplan.pdf)
 
 
-Kolejnym krokiem jest mielenie testów. Jako osoba przechodząca kiedyś egzamin na patent strzeleckim posłużę się porównaniem - baza pytań do egzaminu KF jest mniejsza, prostsza, a przede wszystkim jawna.
+Kolejnym krokiem jest mielenie testów. Jako osoba przechodząca kiedyś egzamin na patent strzelecki, posłużę się porównaniem - baza pytań do egzaminu KF jest mniejsza, prostsza, a przede wszystkim jawna.
 Nie oznacza to jednak, że jest ona niezmienna. Dla świętego spokoju przejrzyj aktualną listę kilka dni przed egzaminem.
 
 Część testowa egzaminu zawiera 20 pytań podzielonych na 4 sekcje. Aby zdać egzamin wystarczy odpowiedzieć poprawnie na 3 z 5 pytań w każdej z nich (czyli łącznie na 60% pytań).
