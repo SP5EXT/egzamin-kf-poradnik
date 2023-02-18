@@ -139,6 +139,8 @@ Niektóre linki powtarzają się w sekcjach wyżej dla Twojej wygody (mam nadzie
 
 [Opis egzaminu KF w wykonaniu Sierra Echo](https://www.youtube.com/watch?v=biO8y8Z5o8E)
 
+[Portal SQ9JDO - kopalnia wiedzy](http://sq9jdo.com.pl/indeks.html)
+
 ### Społeczności, YT, Inne
 
 [Przemienniki.net](https://przemienniki.net/)
